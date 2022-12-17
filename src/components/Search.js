@@ -27,7 +27,7 @@ function Search() {
         placeholder="Agregar tarea..."
         onChange={handleChange}
         value={inputItem}
-        maxLength={26}
+        maxLength={25}
         required
       />
       <button>
